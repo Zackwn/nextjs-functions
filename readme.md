@@ -6,9 +6,9 @@
 
 ### Project flow
 
-  <img src='.github/home.png' height='180'>
+  <img src='.github/home.png' height='240'>
 
-  <img src='.github/success.png' height='180'>
+  <img src='.github/success.png' height='240'>
 
 <hr>
 
