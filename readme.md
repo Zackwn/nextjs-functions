@@ -2,7 +2,7 @@
 
 ### What is
 
- - Serverless Functions da Vercel to save user data de um in MongoDB using ReactJS and Next.js.
+ - Serverless Functions of Vercel to save user data in MongoDB using ReactJS and Next.js.
 
 ### Project flow
 
